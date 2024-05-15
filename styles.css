@@ -551,7 +551,6 @@ html, body {
 }
 
 body {
-  /* background: url('background.png') no-repeat center center fixed; */
   background-size: cover;
   display: flex;
   flex-direction: column;
@@ -571,15 +570,11 @@ body {
 h1 {
   font-size: 8vw;
   font-weight: 900;
-  color: #ffffff;
-  text-shadow: 3px 3px 4px #8787b5;
 }
 
 h2 {
   font-size: 2vw;
   font-weight: 600;
-  color: #ffffff;
-  text-shadow: 3px 3px 4px #8787b5;
 }
 
 .copyright {
@@ -587,5 +582,4 @@ h2 {
   font-size: 0.75rem;
   padding: 20px 0;
   width: 100%;
-  color: #ffffff;
 }
