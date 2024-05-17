@@ -572,9 +572,17 @@ h1 {
   font-weight: 900;
 }
 
+h2 {
+  font-weight: 750;
+}
+
 .copyright {
   text-align: center;
   font-size: 0.75rem;
   padding: 20px 0;
   width: 100%;
+}
+
+li {
+  display: inline
 }
